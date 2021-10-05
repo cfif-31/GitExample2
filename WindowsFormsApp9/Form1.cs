@@ -19,7 +19,7 @@ namespace WindowsFormsApp9
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("Hello  word!");
+            Console.WriteLine("Hello, world!");
         }
     }
 }
